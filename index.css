@@ -1,0 +1,22 @@
+.b1,.b2,.b3{
+    border: 1px solid green;
+    margin: 10px;
+    float: left;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    top: 20px;
+    background-color: #DDDDDD;
+    padding: 10px;
+}
+
+.b1{
+    overflow-y: scroll;
+}
+
+.b3{
+    margin-top: 30px;
+    clear: both;
+    width: 440px;
+    height: 250px;
+}
